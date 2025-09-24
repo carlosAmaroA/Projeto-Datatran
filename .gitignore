@@ -1,4 +1,3 @@
 venv/
 .idea/
-processed/*
-!processed/.gitkeep
+data/processed/datatran.pkl
